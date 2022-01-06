@@ -1,0 +1,102 @@
+
+
+
+.logo {
+/*max-width: 100%;*/  
+height: auto;   
+}
+
+.container {
+width: 100%;
+max-width: 100%;
+padding: 20px;
+margin: 0 auto;
+font-family:"Teko", sans-serif;
+color:white;
+font-weight: 900;
+font-size: 20px;
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#45484d+0,000000+100;Black+3D+%231 */
+background: rgb(69,72,77); /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  rgba(69,72,77,1) 0%, rgba(0,0,0,1) 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+.main-header .container {
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-wrap: wrap;    
+}
+
+.main-nav ul {
+margin: 1em 0 .5em;
+text-align:center;    
+}
+
+.main-nav li{
+display:inline;
+font-family:"Teko", sans-serif;
+color:white;
+font-weight:600;    
+}
+
+.main-nav a{
+display:inline-block;
+padding: 10px;
+color:white;    
+}
+
+.main-picture {
+width:max-content;    
+}
+
+.container-main {
+width: 100%;
+max-width: 100%;
+padding: 20px;
+margin: 0 auto;
+font-family:"Teko", sans-serif;
+color:white;
+font-weight: 700;
+font-size: 18px;
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#45484d+0,000000+100;Black+3D+%231 */
+background: rgb(69,72,77); /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  rgba(69,72,77,1) 0%, rgba(0,0,0,1) 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    
+}
+
+h2 {
+text-align: center;    
+}
+
+.section .container-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;      
+}
+
+.sub-nav .sub-nav-list {
+    margin: 1em 0 .5em;
+    text-align:center; 
+}
+
+.sub-nav li {
+    display:inline;
+    font-family:"Teko", sans-serif;
+    color:white;
+    font-weight:600;
+    font-size:32px;      
+}
+ .sub-nav a {
+    display:inline-block;
+    padding: 10px;
+    color:white;        
+ }
+
